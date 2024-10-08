@@ -31,7 +31,7 @@ set_2 = {'Dog', 'God', 'Smog', 'Smik'}
 print(set_1 - set_2)
 ```
 ### Результат.
-![](screenshot/5лр1.png)
+![](screenshot/5лр1.PNG)
 
 
 ## Лабораторная работа №2
