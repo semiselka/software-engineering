@@ -57,7 +57,7 @@ for i in range(len(frozenset) + 1):
         print('frozenset: ', frozenset)
 ```
 ### Результат.
-![](screenshot/5лр2.png)
+![](screenshot/5лр2.PNG)
 
 
 ## Лабораторная работа №3
@@ -71,7 +71,7 @@ list[0], list [-1] = list[-1], list[0]
 print(list)
 ```
 ### Результат.
-![](screenshot/5лр3.png)
+![](screenshot/5лр3.PNG)
 
 
 ## Лабораторная работа №4
@@ -83,7 +83,7 @@ print(my_list)
 print(my_list[2:7])
 ```
 ### Результат.
-![](screenshot/5лр4.png)
+![](screenshot/5лр4.PNG)
 
 
 ## Лабораторная работа №5
@@ -97,7 +97,7 @@ def useless (lst):
 print(useless([1, 2, 3, 4, 5]))
 ```
 ### Результат.
-![](screenshot/5лр5.png)
+![](screenshot/5лр5.PNG)
 
 
 ## Лабораторная работа №6
@@ -111,7 +111,7 @@ vitaly, lera, petya = superheroes
 print(f'Витя - {vitaly}, Лера - {lera}, Петя - {petya}')
 ```
 ### Результат.
-![](screenshot/5лр6.png)
+![](screenshot/5лр6.PNG)
 
 
 ## Лабораторная работа №7
@@ -128,7 +128,7 @@ def weak(lst):
 print(weak([215, 1239, 20, 210]))
 ```
 ### Результат.
-![](screenshot/5лр7.png)
+![](screenshot/5лр7.PNG)
 
 
 ## Лабораторная работа №8
@@ -150,7 +150,7 @@ for i in range(random.randint(1, 5)):
 print(massive_list)
 ```
 ### Результат.
-![](screenshot/5лр8.png)
+![](screenshot/5лр8.PNG)
 
 
 ## Лабораторная работа №9
@@ -174,7 +174,7 @@ if __name__ == '__main__':
   superset({90, 100}, {3, 5})
 ```
 ### Результат.
-![](screenshot/5лр9.png)
+![](screenshot/5лр9.PNG)
 
 
 ## Лабораторная работа №10
@@ -186,7 +186,7 @@ print(list[::-1])
 ```
 ### Результат.
 
-![](screenshot/5лр10.png)
+![](screenshot/5лр10.PNG)
 
 
 
@@ -232,7 +232,7 @@ print(f'Больше всех ресторан посетил: <{max(counter, ke
 
 ### Результат.
 
-![](screenshot/5ср1.png)
+![](screenshot/5ср1.PNG)
 
 ## Вывод
 
@@ -268,7 +268,7 @@ print(list_more_than_10)
 
 ### Результат.
 
-![](screenshot/5ср2.png)
+![](screenshot/5ср2.PNG)
 
 ## Вывод
 
@@ -297,7 +297,7 @@ print(square_triangle(a, b, c))
 
 ### Результат.
 
-![](screenshot/5ср3.png)
+![](screenshot/5ср3.PNG)
 ## Вывод
 
 Благодаря этой программе я вспомнил задание из прошлой темы и закрепил формулу Герона. А без шуток - данное задание было очень простым способом попрактиковать min и max функции.
@@ -321,7 +321,7 @@ print(list)
 
 ### Результат.
 
-![](screenshot/5ср4.png)
+![](screenshot/5ср4.PNG)
 
 ## Вывод
 
@@ -361,7 +361,7 @@ print(f"Множество для list_3: {set_3}")
 
 ### Результат.
 
-![](screenshot/5ср5.png)
+![](screenshot/5ср5.PNG)
 
 ## Вывод
 
